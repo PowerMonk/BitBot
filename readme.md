@@ -10,7 +10,27 @@ It parses the info in the logs and creates an .xlsx and a .pdf file so it can be
 
 ## How to use it?
 
-Idk yet, I'm building rn. HAHA
+For now, I know that you _should_ create a virtual environment to download the dependencies and code in there, do something like this if you're using powershell like me (I know, I know...)
+
+1. Create a virtual environment:
+
+```Bash
+python -m venv venv
+```
+
+2. Activate it
+
+```Bash
+venv\Scripts\Activate.ps1
+```
+
+3. Install requirements
+
+```Bash
+pip install -r requirements.txt
+```
+
+For the rest idk yet, I'm building rn. HAHA
 
 ## Roadmap
 

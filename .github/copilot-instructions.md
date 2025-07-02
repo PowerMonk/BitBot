@@ -30,7 +30,7 @@ Este es un proyecto Python local. Se usará:
 recetador_agricola/
 ├── data/ # Datos de entrada y configuraciones
 │ ├── insumos.json # Precios e info de insumos
-│ └── entradas/ # Bitácoras en PDF
+│ └── entradas/ # Bitácoras de test en PDF
 ├── plantillas/ # Plantilla de Excel para las recetas y notas
 │ └── receta_base.xlsx
 ├── scripts/ # Scripts reutilizables (core del programa)
