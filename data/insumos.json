@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ecozin",
+    "cantidad": 1,
+    "unidad": "lt",
+    "precio_unitario": 950,
+    "año_venta": 2022
+  },
+  {
+    "id": 2,
+    "nombre": "Stimplex",
+    "cantidad": 1,
+    "unidad": "lt",
+    "precio_unitario": 343,
+    "año_venta": 2022
+  },
+  {
+    "id": 3,
+    "nombre": "Stimplex",
+    "cantidad": 1,
+    "unidad": "lt",
+    "precio_unitario": 399,
+    "año_venta": 2024
+  },
+  {
+    "id": 4,
+    "nombre": "Tecmangam",
+    "cantidad": 10,
+    "unidad": "kg",
+    "precio_unitario": 1730,
+    "año_venta": 2022
+  },
+  {
+    "id": 5,
+    "nombre": "Tecmangam",
+    "cantidad": 10,
+    "unidad": "kg",
+    "precio_unitario": 1799,
+    "año_venta": 2025
+  },
+  {
+    "id": 6,
+    "nombre": "Biocopper Oxi",
+    "cantidad": 1,
+    "unidad": "kg",
+    "precio_unitario": 250,
+    "año_venta": 2022
+  },
+  {
+    "id": 7,
+    "nombre": "Biocopper Oxi",
+    "cantidad": 1,
+    "unidad": "kg",
+    "precio_unitario": 299,
+    "año_venta": 2024
+  }
+]
